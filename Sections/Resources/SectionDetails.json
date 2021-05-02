@@ -1,0 +1,208 @@
+
+
+{
+  "35bb8a90-d40e-11e2-8b8b-0800200c9a66": {
+    "type": "page",
+    "pageType": "section",
+    "title": "TV-serier online - Streama serier på nätet eller ladda ned",
+    "description": "Viaplay erbjuder TV-serier på nätet för hela familjen. Streama serier online i hög kvalitet eller ladda ned till tablet eller mobil!",
+    "styles": [],
+    "_links": {
+      "viaplay:sections": [
+        {
+          "id": "35bb8a90-d40e-11e2-8b8b-0800200c9a66",
+          "title": "Serier",
+          "href": "https://content.viaplay.se/ios-se/serier{?dtg}",
+          "type": "vod",
+          "name": "series",
+          "templated": true
+        },
+        {
+          "id": "2037b330-d411-11e2-8b8b-0800200c9a66",
+          "title": "Film",
+          "href": "https://content.viaplay.se/ios-se/film{?dtg}",
+          "type": "vod",
+          "name": "movie",
+          "templated": true
+        },
+        {
+          "id": "8e5febf0-d4e0-11e2-8b8b-0800200c9a66",
+          "title": "Sport",
+          "href": "https://content.viaplay.se/ios-se/sport{?dtg}",
+          "type": "vod",
+          "name": "sport",
+          "templated": true
+        },
+        {
+          "id": "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66",
+          "title": "Barn",
+          "href": "https://content.viaplay.se/ios-se/barn{?dtg}",
+          "type": "vod",
+          "name": "kids",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "viaplay:blocks": []
+    },
+    "responseCode": {
+      "httpStatus": 200,
+      "statusCode": 200,
+      "code": 1
+    }
+  },
+  "2037b330-d411-11e2-8b8b-0800200c9a66": {
+    "type": "page",
+    "pageType": "section",
+    "title": "Film på nätet - Streama … online eller ladda ned",
+    "description": "Viaplay erbjuder film på nätet för hela familjen. Streama filmer online i hög kvalitet eller ladda ned till tablet eller mobil!",
+    "styles": [],
+    "_links": {
+      "viaplay:sections": [
+        {
+          "id": "35bb8a90-d40e-11e2-8b8b-0800200c9a66",
+          "title": "Serier",
+          "href": "https://content.viaplay.se/ios-se/serier{?dtg}",
+          "type": "vod",
+          "name": "series",
+          "templated": true
+        },
+        {
+          "id": "2037b330-d411-11e2-8b8b-0800200c9a66",
+          "title": "Film",
+          "href": "https://content.viaplay.se/ios-se/film{?dtg}",
+          "type": "vod",
+          "name": "movie",
+          "templated": true
+        },
+        {
+          "id": "8e5febf0-d4e0-11e2-8b8b-0800200c9a66",
+          "title": "Sport",
+          "href": "https://content.viaplay.se/ios-se/sport{?dtg}",
+          "type": "vod",
+          "name": "sport",
+          "templated": true
+        },
+        {
+          "id": "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66",
+          "title": "Barn",
+          "href": "https://content.viaplay.se/ios-se/barn{?dtg}",
+          "type": "vod",
+          "name": "kids",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "viaplay:blocks": []
+    },
+    "responseCode": {
+      "httpStatus": 200,
+      "statusCode": 200,
+      "code": 1
+    }
+  },
+  "8e5febf0-d4e0-11e2-8b8b-0800200c9a66": {
+    "type": "page",
+    "pageType": "section",
+    "title": "Sport online - Streama Premier & Champions league live - Viaplay",
+    "description": "Vill du se sport på nätet? På Viaplay kan du se Champions League och Premier League live, följa NHL och Formel 1, golf och annan sport!",
+    "styles": [],
+    "_links": {
+      "viaplay:sections": [
+        {
+          "id": "35bb8a90-d40e-11e2-8b8b-0800200c9a66",
+          "title": "Serier",
+          "href": "https://content.viaplay.se/ios-se/serier{?dtg}",
+          "type": "vod",
+          "name": "series",
+          "templated": true
+        },
+        {
+          "id": "2037b330-d411-11e2-8b8b-0800200c9a66",
+          "title": "Film",
+          "href": "https://content.viaplay.se/ios-se/film{?dtg}",
+          "type": "vod",
+          "name": "movie",
+          "templated": true
+        },
+        {
+          "id": "8e5febf0-d4e0-11e2-8b8b-0800200c9a66",
+          "title": "Sport",
+          "href": "https://content.viaplay.se/ios-se/sport{?dtg}",
+          "type": "vod",
+          "name": "sport",
+          "templated": true
+        },
+        {
+          "id": "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66",
+          "title": "Barn",
+          "href": "https://content.viaplay.se/ios-se/barn{?dtg}",
+          "type": "vod",
+          "name": "kids",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "viaplay:blocks": []
+    },
+    "responseCode": {
+      "httpStatus": 200,
+      "statusCode": 200,
+      "code": 1
+    }
+  },
+  "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66": {
+    "type": "page",
+    "pageType": "section",
+    "title": "Barnfilmer och serier för barn på nätet – Viaplay",
+    "description": "På Viaplay ser barnen film och serier på nätet, här kan du streama TV-program till dator, surfplatta, mobil, spelkonsol och Smart TV.",
+    "styles": [],
+    "_links": {
+      "viaplay:sections": [
+        {
+          "id": "35bb8a90-d40e-11e2-8b8b-0800200c9a66",
+          "title": "Serier",
+          "href": "https://content.viaplay.se/ios-se/serier{?dtg}",
+          "type": "vod",
+          "name": "series",
+          "templated": true
+        },
+        {
+          "id": "2037b330-d411-11e2-8b8b-0800200c9a66",
+          "title": "Film",
+          "href": "https://content.viaplay.se/ios-se/film{?dtg}",
+          "type": "vod",
+          "name": "movie",
+          "templated": true
+        },
+        {
+          "id": "8e5febf0-d4e0-11e2-8b8b-0800200c9a66",
+          "title": "Sport",
+          "href": "https://content.viaplay.se/ios-se/sport{?dtg}",
+          "type": "vod",
+          "name": "sport",
+          "templated": true
+        },
+        {
+          "id": "1a6a2ec0-d4e2-11e2-8b8b-0800200c9a66",
+          "title": "Barn",
+          "href": "https://content.viaplay.se/ios-se/barn{?dtg}",
+          "type": "vod",
+          "name": "kids",
+          "templated": true
+        }
+      ]
+    },
+    "_embedded": {
+      "viaplay:blocks": []
+    },
+    "responseCode": {
+      "httpStatus": 200,
+      "statusCode": 200,
+      "code": 1
+    }
+  }
+}
